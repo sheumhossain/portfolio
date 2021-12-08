@@ -1,0 +1,1 @@
+<?php include_once(“bootst1.html”); ?>
